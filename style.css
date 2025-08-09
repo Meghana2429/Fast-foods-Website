@@ -14,7 +14,7 @@ body{
 }
 .bg-container{
     padding:30px;
-    background-image:linear-gradient(to left,#ec9824,#dfcdac)100%;
+    background-image:linear-gradient(to left,#ec9824,#dfcdac)50%;
     margin: 0px;
    
 }
@@ -219,6 +219,7 @@ hr{
 .card1::after{
     transform: translateY(-5px);
 }
+
 
 
 
