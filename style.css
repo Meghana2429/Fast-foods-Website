@@ -14,8 +14,9 @@ body{
 }
 .bg-container{
     padding:30px;
-    background-image:linear-gradient(to left,#ec9824,#dfcdac);
+    background-image:linear-gradient(to left,#ec9824,#dfcdac)100%;
     margin: 0px;
+   
 }
 header{
     display: flex;
@@ -218,6 +219,7 @@ hr{
 .card1::after{
     transform: translateY(-5px);
 }
+
 
 
 
